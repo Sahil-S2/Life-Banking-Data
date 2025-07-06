@@ -136,6 +136,6 @@ This project demonstrates that with strong features and proper preprocessing, hi
 **Sahil Jena**  
 *Data Science Enthusiast*  
 📧 sahilswarajjena456@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/Sahil-Jena) | [GitHub](https://github.com/Sahil-S2/Life-Banking-Data)
+🔗 [LinkedIn](https://www.linkedin.com/in/sahil-jena-067b1b301/) | [GitHub](https://github.com/Sahil-S2/Life-Banking-Data)
 
 ---
